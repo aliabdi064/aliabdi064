@@ -82,8 +82,37 @@ SQL-based analysis to identify **high-value customers** based on both **recent a
 Developed an **AI-driven workflow** to automate invoice extraction, validation, and reporting using **Google Drive, Sheets, and Colab integration**.  
 
 ---
+# 📊 Tableau Projects  
 
+## 🚦 Data Analytics for Enhanced Transportation Management in Birmingham  
+A dashboard to monitor traffic patterns and alleviate **M6 motorway congestion**.  
+- Visualises peak traffic times and congestion hotspots.  
+- Provides actionable insights for traffic flow optimisation.  
+- Interactive filters for time, location, and traffic volume.  
 
+🔗 [View Dashboard 1](https://public.tableau.com/app/profile/alireza.abdi/viz/AlirezaAbdi-M6-Birmingham2022/Dashboard1)  
+🔗 [View Dashboard 2](https://public.tableau.com/app/profile/alireza.abdi/viz/AlirezaAbdi-ProjectTraffic/Dashboard1)  
+
+---
+
+## 💼 Unlocking Opportunities in the UK  
+Comprehensive data analysis of **115,151 UK companies offering sponsorship for foreign job seekers**.  
+- Explore top-rated companies by city, county, and organisation.  
+- Filter opportunities to find ideal career routes.  
+
+🔗 [View Dashboard](https://public.tableau.com/app/profile/alireza.abdi/viz/sponsorship-for-foreign-job-seekers-intheUK/Dashboard1)  
+
+---
+
+## 📈 Analyzing Modem Sales Performance  
+Visual analysis of modem sales at **Asiatech Co** to monitor performance and trends.  
+- Track sales by region and time period.  
+- Identify top-selling models and sales gaps.  
+- Supports data-driven strategy decisions.  
+
+🔗 [View Dashboard](https://public.tableau.com/app/profile/alireza.abdi/viz/AnalyzingModemSalesPerformanceatAsiatechCo/Dashboard1)  
+
+---
 
 
 # 🛠️ Tech Stack  
