@@ -29,7 +29,7 @@ My expertise spans the full data lifecycle:
   
 ---
 
-# 📊 Data Science & Machine Learning Portfolio  
+# 📊 Data Science & Machine Learning & AI Portfolio  
 
 
 ## 🏠 Forecasting UK Housing Market Trends with Machine Learning (2015–2024)  
