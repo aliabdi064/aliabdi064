@@ -6,6 +6,9 @@
 A Data Professional with a recent **MSc in Business and Data Analytics (Distinction)**, passionate about transforming complex datasets into actionable insights and developing innovative, data-driven solutions to solve real-world business challenges.  
 **"GCP-centric" — "End-to-end ownership"**  
 
+🏆 Over 70+ Google Cloud Skill Badges achieved with extensive hands-on experience across real-world Data Analytics and Data Engineering projects.
+
+
 My expertise spans the full data lifecycle:  
 - Engineering robust ETL pipelines and managing data in **Google Cloud Platform** (BigQuery, Dataflow, Data Fusion, Vertex AI).  
 - Performing advanced statistical analysis and building predictive ML models (Python, Scikit-learn, XGBoost).  
