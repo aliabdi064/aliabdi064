@@ -16,12 +16,21 @@ My expertise spans the full data lifecycle:
 * 👥  Open to collaboration on Google Cloud Platform (GCP)  
 
 ---
+# ☁️ GCP Data Analytics & Data Engineering Projects  
+
+- Creating a Streaming Data Pipeline for a Real-Time Dashboard with Dataflow and Looker  
+- YouTube Video Analysis with Gemini  
+- Data Pipeline Construction and Execution with Google Cloud Data Fusion  
+- E-commerce: Predict Visitor Purchases with a Classification Model in BigQuery ML  
+- Serverless Wildlife Image Classification with BigQuery ML  
+- Transforming Customer Feedback with LLMs, Google Cloud & Gemini AI  
+- Generated Real-Time Personalised Emails Using BigQuery Continuous Queries and Gemini AI  
+- Predict Visitor Purchases with a Classification Model in BigQuery ML
+  
+---
 
 # 📊 Data Science & Machine Learning Portfolio  
 
-<img src="https://images.unsplash.com/photo-1560520653-9e0e2e9f68e9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1400&q=80" width="100%" style="border-radius:15px;"/>
-
----
 
 ## 🏠 Forecasting UK Housing Market Trends with Machine Learning (2015–2024)  
 🔗 [GitHub Repository](https://github.com/aliabdi064/Bank-of-England)  
@@ -29,10 +38,6 @@ My expertise spans the full data lifecycle:
 Analysed **10M+ UK housing records** to forecast prices using **LightGBM & XGBoost**.  
 Improved model performance from **R² 0.10 → 0.6057**, reduced **MAE to £63.2K**, and applied advanced feature engineering (temporal & regional drivers).  
 
-### 📈 Example Visualisations  
-| Regional Price Trends | Feature Importance | Prediction Fit |
-|----------------------|-------------------|----------------|
-| <img src="https://raw.githubusercontent.com/aliabdi064/Bank-of-England/main/images/regional_trends.png" width="250"/> | <img src="https://raw.githubusercontent.com/aliabdi064/Bank-of-England/main/images/feature_importance.png" width="250"/> | <img src="https://raw.githubusercontent.com/aliabdi064/Bank-of-England/main/images/actual_vs_pred.png" width="250"/> |
 
 ---
 
@@ -75,18 +80,8 @@ Developed an **AI-driven workflow** to automate invoice extraction, validation, 
 
 ---
 
-# ☁️ GCP Data Analytics & Data Engineering Projects  
 
-- Creating a Streaming Data Pipeline for a Real-Time Dashboard with Dataflow and Looker  
-- YouTube Video Analysis with Gemini  
-- Data Pipeline Construction and Execution with Google Cloud Data Fusion  
-- E-commerce: Predict Visitor Purchases with a Classification Model in BigQuery ML  
-- Serverless Wildlife Image Classification with BigQuery ML  
-- Transforming Customer Feedback with LLMs, Google Cloud & Gemini AI  
-- Generated Real-Time Personalised Emails Using BigQuery Continuous Queries and Gemini AI  
-- Predict Visitor Purchases with a Classification Model in BigQuery ML  
 
----
 
 # 🛠️ Tech Stack  
 
