@@ -44,6 +44,14 @@ Improved model performance from **R² 0.10 → 0.6057**, reduced **MAE to £63.2
 
 ---
 
+## Marketing Spend Optimization & Sales Forecasting
+🔗 [GitHub Repository](https://github.com/aliabdi064/markeing_economteric_poroject)  
+
+ 🛒 Forecasting UK Housing Market Trends with Machine Learning (2015–2024)  
+🔗 [GitHub Repository](https://github.com/aliabdi064/Bank-of-England)  
+
+---
+
 ## 🛒 Predict Visitor Purchases with a Classification Model in BigQuery ML  
 🔗 [Colab Notebook](https://colab.research.google.com/drive/1xwTe3WUrvtFa2jpkwDYdmCSl-TIHjbeQ?usp=sharing#scrollTo=afwW-6qpByc4)  
 
