@@ -46,9 +46,9 @@ Improved model performance from **R² 0.10 → 0.6057**, reduced **MAE to £63.2
 
 ## Marketing Spend Optimization & Sales Forecasting
 🔗 [GitHub Repository](https://github.com/aliabdi064/markeing_economteric_poroject)  
+Built an econometric multiple linear regression model (R² = 0.903) to predict sales from marketing spend,
 
- 🛒 Forecasting UK Housing Market Trends with Machine Learning (2015–2024)  
-🔗 [GitHub Repository](https://github.com/aliabdi064/Bank-of-England)  
+Designed budget optimisation strategy using regression coefficients, demonstrating how reallocating advertising spend can maximise sales and improve return on investment.
 
 ---
 
