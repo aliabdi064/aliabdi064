@@ -123,6 +123,20 @@ Visual analysis of modem sales at **Asiatech Co** to monitor performance and tre
 ---
 
 
+🌱 Sustainable Supply Chains & Customer Satisfaction 
+
+
+106 UK consumers to evaluate the link between green supply chain practices and customer satisfaction in the smartphone industry.
+Evaluated how initiatives like charger removal and recycling programs impact consumer satisfaction and perceptions.
+Analyzed the difference in satisfaction for brands perceived as environmentally responsible, such as Apple and Samsung.
+Identified the gap between consumers' stated support for sustainability and their actual purchasing decisions.
+
+🔗 [GitHub Repository](https://github.com/aliabdi064/Customer-Satisfaction-/tree/main)  
+
+---
+
+
+
 # 🛠️ Tech Stack  
 
 <p align="left">
