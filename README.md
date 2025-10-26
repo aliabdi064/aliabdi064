@@ -66,7 +66,6 @@ Designed budget optimisation strategy using regression coefficients, demonstrati
 🔗 [Colab Notebook](https://colab.research.google.com/drive/1BEPQLfw59RyeDnOx9JFt500UXhmfiLTF?usp=sharing)  
 
 ---
-## 📊 Business Analysis Projects
 ## 📈 Intel's Global Competitive Strategy: A Framework Analysis
 🔗 [GitHub Repository](https://github.com/aliabdi064/Intel_Fundamental_Analysis_)  
 ## 💹 Intel Corp. Financial Performance Analysis (2021-2022)
