@@ -45,17 +45,7 @@ I engineer resilient, high-throughput cloud data platforms and autonomous AI sys
 </div>
 
 ```
-┌─────────────────────────────────┐       ┌─────────────────────────────────┐       ┌─────────────────────────────────┐
-│       Mobile Client (Edge)      │ ───►  │     Stateless Cloud Gateway     │ ───►  │     ERPNext v16 Enterprise      │
-│  On-Device Vision Preprocessing │       │   Multi-Stage Validation Engine │       │    Inverted File-First Commit   │
-│    Offline-Resilient Outbox     │       │   High-Throughput Paced Queue   │       │     Immutable General Ledger    │
-└─────────────────────────────────┘       └─────────────────────────────────┘       └─────────────────────────────────┘
-                ▲                                          │                                         ▲
-                │                                          ▼                                         │
-                │                         ┌─────────────────────────────────┐                        │
-                └──────────────────────── │    Multimodal AI Vision Core    │ ───────────────────────┘
-                                          │   Deterministic Stream Parsing  │
-                                          └─────────────────────────────────┘
+
 ```
 
 ### 💡 Commercial Capabilities & Business Impact
